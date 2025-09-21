@@ -1,0 +1,18 @@
+amazon sales data:
+| Order ID | Product Name | Category | Order Date | Units Sold | Sales Price | Revenue | Sales Channel | Fulfillment Type | Customer ID | Customer Location | Payment Method | Order Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1001 | Earphones | Electronics | 2025-01-12 00:00:00 | 20 | 599 | 11980 | Amazon.in | FBA | C001 | Mumbai | Credit Card | Delivered |
+| 1002 | T-shirt | Clothing | 2025-01-13 00:00:00 | 10 | 499 | 4990 | Amazon.in | Seller-Fulfilled | C002 | Delhi | Debit Card | Shipped |
+| 1003 | Water Bottle | Home | 2025-01-15 00:00:00 | 15 | 299 | 4485 | Amazon.in | FBA | C003 | Bangalore | UPI | Delivered |
+| 1004 | Mobile Case | Electronics | 2025-01-17 00:00:00 | 12 | 199 | 2388 | Amazon.in | Seller-Fulfilled | C004 | Pune | Cash on Delivery | Returned |
+| 1005 | Book | Books | 2025-01-18 00:00:00 | 8 | 399 | 3192 | Amazon.in | FBA | C005 | Chennai | Credit Card | Delivered |
+| 1006 | Blender | Home | 2025-01-20 00:00:00 | 5 | 1299 | 6495 | Amazon.in | Seller-Fulfilled | C006 | Hyderabad | Net Banking | Delivered |
+| 1007 | Shoes | Footwear | 2025-01-21 00:00:00 | 7 | 1299 | 9093 | Amazon.in | FBA | C007 | Kolkata | Credit Card | Delivered |
+| 1008 | Headphones | Electronics | 2025-01-23 00:00:00 | 9 | 1199 | 10791 | Amazon.in | FBA | C008 | Ahmedabad | UPI | Shipped |
+| 1009 | Jeans | Clothing | 2025-01-23 00:00:00 | 6 | 999 | 5994 | Amazon.in | Seller-Fulfilled | C009 | Surat | Debit Card | Delivered |
+| 1010 | Mixer | Home | 2025-01-25 00:00:00 | 4 | 1999 | 7996 | Amazon.in | FBA | C010 | Jaipur | Net Banking | Delivered |
+| 1011 | Tablet | Electronics | 2025-01-28 00:00:00 | 2 | 7999 | 15998 | Amazon.in | Seller-Fulfilled | C011 | Lucknow | Credit Card | Delivered |
+| 1012 | Mug | Home | 2025-01-28 00:00:00 | 10 | 199 | 1990 | Amazon.in | FBA | C012 | Chandigarh | UPI | Returned |
+| 1013 | Laptop Bag | Accessories | 2025-01-29 00:00:00 | 8 | 799 | 6392 | Amazon.in | Seller-Fulfilled | C013 | Bhopal | Debit Card | Delivered |
+| 1014 | Socks | Clothing | 2025-01-29 00:00:00 | 12 | 99 | 1188 | Amazon.in | FBA | C014 | Indore | Credit Card | Delivered |
+| 1015 | Charger | Electronics | 2025-01-30 00:00:00 | 18 | 399 | 7182 | Amazon.in | Seller-Fulfilled | C015 | Patna | Cash on Delivery | Delivered |
